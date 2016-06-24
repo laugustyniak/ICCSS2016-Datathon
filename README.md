@@ -7,3 +7,5 @@ I recommend to use Python to load it:
 import pandas as pd
 speeches = pd.read_csv('2016_all.csv')
 ```
+
+Source of data: presidency.ucsb.edu
